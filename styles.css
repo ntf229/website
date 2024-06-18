@@ -1,0 +1,74 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.resume {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2em;
+}
+
+header p {
+    margin: 5px 0;
+}
+
+header a {
+    color: #333;
+    text-decoration: none;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+section h2 {
+    background: #333;
+    color: #fff;
+    padding: 10px;
+    border-radius: 3px;
+    margin: 0 -20px 10px -20px;
+    text-align: center;
+}
+
+.education, .work-experience {
+    padding: 0 20px;
+}
+
+.education h3, .work-experience h3 {
+    margin: 10px 0 5px;
+}
+
+.education p, .work-experience p {
+    margin: 5px 0;
+}
+
+ul {
+    padding: 0 20px;
+    list-style-type: disc;
+}
+
+ul li {
+    margin: 5px 0;
+}
+
+strong {
+    display: block;
+    margin-bottom: 5px;
+}
