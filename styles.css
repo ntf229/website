@@ -72,3 +72,7 @@ strong {
     display: block;
     margin-bottom: 5px;
 }
+
+a {
+    all: unset;
+}
