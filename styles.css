@@ -73,6 +73,7 @@ strong {
     margin-bottom: 5px;
 }
 
-.a {
-    all: unset;
+.normal-link {
+    text-decoration: none;
+    color: #000; 
 }
