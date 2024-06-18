@@ -79,5 +79,6 @@ strong {
 }
 
 .tight {
-    margin-top: -20em;
+    margin-top: -1em;
+    margin-bottom: -1em;
 }
