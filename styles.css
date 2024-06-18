@@ -6,10 +6,6 @@ body {
     background-color: #f4f4f4;
 }
 
-br {
-    line-height:10;
-}
-
 .resume {
     max-width: 800px;
     margin: 20px auto;
@@ -30,7 +26,7 @@ header h1 {
 }
 
 header p {
-    margin: 5px 0;
+    margin: 0;
 }
 
 header a {
